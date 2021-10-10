@@ -481,6 +481,7 @@ a {
   }
   .btn {
     margin-top: 7rem;
+    width: auto;
   }
   .btn a button {
     width: 100px;
