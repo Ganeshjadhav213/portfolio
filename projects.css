@@ -135,11 +135,11 @@
   .blog-slider__img {
     width: 80%;
     height: 150px;
-    transform: translateY(-15%);
+    transform: translateY(-10%);
   }
   .blog-slider {
     margin-left: 80px;
-    top: -8%;
+    top: -6%;
   }
 }
 @media screen and (max-height: 500px) and (min-width: 992px) {
